@@ -1,5 +1,5 @@
 - Training
-	-
+	- **Task 1**: Control Mapbox
 	- [[Angular]]
 	- [[Mapbox]]
 - On Job
